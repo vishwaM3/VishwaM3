@@ -1,4 +1,4 @@
-# 👋 Hi, I'm M-Vishwa
+# 👋 Hi, I'm VishwaM3
 
 Welcome to my GitHub profile!  
 I am a student and a beginner developer who is learning programming and building small projects to improve my skills.
@@ -45,7 +45,7 @@ Here are some types of projects you can find in my GitHub:
 
 ## 🤝 Connect With Me
 
-- GitHub: https://github.com/M-Vishwa
+- GitHub: https://github.com/VishwaM3
 
 ---
 
