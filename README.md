@@ -1,54 +1,23 @@
-# 👋 Hi, I'm VishwaM3
+<!-- CINEMATIC HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=160&section=header&text=Vishwa%20M%20&fontColor=ffffff&fontSize=38&animation=fadeIn" />
 
-Welcome to my GitHub profile!  
-I am a student and a beginner developer who is learning programming and building small projects to improve my skills.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3200&pause=700&color=00E7FF&center=true&vCenter=true&width=600&lines=BCA+Student;Python+Learner;HTML+%26+CSS+Explorer;Building+Skills+One+Day+at+a+Time;Future+IT+Professional" />
+</p>
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 Student & Tech Learner  
-- 💻 Interested in Programming and Software Development  
-- 📘 Currently learning Python, Git, and basic development tools  
-- 🚀 Goal: Become a good software developer and build useful projects  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VishwaM3&label=People%20Visited%20My%20Profile&color=00d4ff&style=for-the-badge" />
+</p>
 
 ---
 
-## 🛠️ Skills
+## 🧠 Who am I? 
 
-- Python (Beginner to Intermediate)
-- Basic Programming & Logic Building
-- Git & GitHub
-- HTML (Basics)
-- Problem Solving
+```txt
+A BCA student focused on strong programming fundamentals.
+I approach software development with discipline,
+clarity, and attention to detail.
 
----
-
-## 📂 Projects
-
-Here are some types of projects you can find in my GitHub:
-
-- 🔹 Small Python programs
-- 🔹 Practice projects
-- 🔹 Learning-based mini projects
-- 🔹 Experiments and test codes
-
----
-
-## 📈 What I'm Doing Now
-
-- Learning Python deeply  
-- Practicing coding every day  
-- Building small projects to improve skills  
-
----
-
-## 🤝 Connect With Me
-
-- GitHub: https://github.com/VishwaM3
-
----
-
-## ⭐ Thanks for Visiting!
-
-If you like my work, please consider giving a ⭐ to my repositories.
+My goal is to build reliable applications,
+write clean and readable code,
+and continuously strengthen my technical foundation.
