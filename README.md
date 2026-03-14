@@ -1,70 +1,28 @@
-<h1 align="center">Hi 👋, I'm Vishwa M</h1><h3 align="center">🚀 Full Stack Developer | Python Developer | BCA Student</h3><p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Python+Developer;Web+Developer;Cyber+Security+Learner&center=true&width=500&height=45">
-</p>---
+Hi 👋, I'm Vishwa M Naik
 
-👨‍💻 About Me
+A passionate Full Stack Developer and Programming Enthusiast from India.
+I enjoy building web applications and learning new technologies.
 
-- 🎓 BCA Student (2023 - 2026)
-- 💻 Passionate Full Stack Developer
-- 🔐 Interested in Cyber Security & Data Analytics
-- 🌱 Currently improving DSA & Web Development
-- ⚡ Love building real world web applications
+"Profile Views" (https://komarev.com/ghpvc/?username=vishwamnaik&color=blue)
 
----
+- 🌱 I’m currently learning Python, Full Stack Development, Data Science
 
-🚀 Tech Stack
+- 💬 Ask me about HTML, CSS, JavaScript, Python, Flask, Git, MySQL
 
-💻 Programming Languages
+- 🚀 Currently building projects like Civic Issue Reporting App (grama_app) using Python Flask + HTML/CSS
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
-</p>🌐 Frontend
+- 📫 How to reach me: naikvishwa106@gmail.com
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask,django" />
-</p>🗄 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>🧰 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,linux,vscode,pycharm" />
-</p>---
-
-🏆 Achievements
-
-🏅 Cisco Cybersecurity Certification
-🏅 Deloitte Data Analytics Job Simulation
-🏅 Digital Fluency – Big Data Analytics (Future Skills Prime – Govt of India)
-🏅 Data Preprocessing & Data Mining Certifications
+- ⚡ Fun fact: I love coding, solving problems and creating useful applications
 
 ---
 
-📊 GitHub Stats
+🔗 Connect with me
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" /></p>---
+<p align="left"><a href="https://linkedin.com/in/yourlinkedin" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" />
+</a></p>---
 
-🌐 Connect With Me
+🛠 Languages and Tools
 
-📧 Email: naikvishwa106@gmail.com
-
-💼 LinkedIn: http://www.linkedin.com/in/Vishwamnaik
-
----
-
-🎯 Interests
-
-✍ Story Writing (Kannada)
-🏐 Volleyball
-🎭 Voice Impressions
-🎬 Video Editing
-🎤 Public Speaking
-
----
-
-⭐ Always learning new technologies and improving my development skills.
+<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></p>
