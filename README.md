@@ -1,65 +1,64 @@
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Vishwa%20M%20Naik&fontSize=60&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descSize=20&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=VISHWA%20M&fontSize=80&fontColor=ffffff&desc=FULL%20STACK%20ENGINEER%20|%20CYBERSECURITY%20ANALYST&descSize=20&descAlignY=70" />
 
   <p align="center">
-    <kbd>Python</kbd> • <kbd>Flask</kbd> 
-• <kbd>Data Analytics</kbd>
-  </p>
-
-  <p align="center">
-    <a href="mailto:naikvishwa106@gmail.com">
-      <img src="https://img.shields.io/badge/Connect-Direct-white?style=flat-square&logo=gmail&logoColor=black" />
-    </a>
-    <a href="YOUR_LINKEDIN_URL">
-      <img src="https://img.shields.io/badge/Network-LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white" />
-    </a>
+    <img src="https://img.shields.io/badge/LOCATION-SHIVAMOGGA%2C%20IN-white?style=flat-square" />
+    <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATION-success?style=flat-square" />
   </p>
 </div>
 
-<br />
+---
 
-### 🛡️ Professional Profile
-An results-oriented Software Engineer specializing in scalable backend architectures and secure systems. Certified by **Cisco** in Network Defense and **Deloitte** in Data Analytics, I bridge the gap between robust development and data-driven insights.
+### 🏛️ Engineering Architecture
+> High-performance developer focused on building secure, scalable web ecosystems. By combining **Full Stack Development** with **Cybersecurity** (Cisco) and **Data Analytics** (Deloitte), I deliver solutions that are not only functional but resilient and data-driven.
 
 ---
 
-### 🚀 Technical Ecosystem
+### 🛠️ Technical Stack (Grid View)
 
-| Domain | Expertises |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Backend & Logic** | `Python (Intermediate)` `Flask` `Django` `C/C++` `Java` |
-| **Data & Security** | `MySQL` `Data Visualization` `Network Defense` `Malware Analysis` |
-| **Frontend Architecture** | `JavaScript (DOM)` `CSS3/SCSS` `Responsive UI` |
-| **Core Foundations** | `Operating Systems` `DBMS` `Computer Networks` `OOPs` |
+| **Logic & Backend** | `Python (Intermediate)` `Flask` `Django` `C` `C++` `Java` |
+| **Data Engineering** | `MySQL` `Data Mining` `Preprocessing` `Visualization` |
+| **Web Infrastructure** | `JavaScript (DOM)` `HTML5` `CSS3` `Responsive Design` |
+| **Security & Ops** | `Network Defense` `Malware Analysis` `Linux` `Git` |
+| **Core Foundations** | `OOPs` `OS` `DBMS` `Computer Networks` |
 
 ---
 
-### 💻 Featured Engineering
-> **E-Commerce Ecosystem (Amazon Clone)**
-> *Full-stack UI implementation focusing on high-volume navigation and interactive DOM logic.*
-> `HTML5` `CSS3` `JavaScript`
+### 📦 Production-Grade Projects
 
-> **Women Safety Infrastructure (Prototype)**
-> *Emergency response interface featuring modular asset management and rapid-alert UI.*
-> `System Architecture` `Modular JS` `Responsive Design`
+#### 🚀 [Amazon Ecosystem Clone](LINK)
+*Full-scale UI architecture focusing on interactive state management and high-volume navigation.*
+- **Technical Highlight:** Optimized JavaScript DOM manipulation for seamless product filtering.
+- **Stack:** HTML5, CSS3, JavaScript.
+
+#### 🛡️ [Women Safety Infrastructure](LINK)
+*A secure, modular prototype for emergency response and resource distribution.*
+- **Technical Highlight:** Implementation of modular folder architecture (CSS/JS/Assets) for maintainability.
+- **Stack:** HTML, CSS, JavaScript.
 
 ---
 
-### 📊 Engineering Statistics
+### 🏆 Professional Credentials & Validations
+
+* **Cisco Cybersecurity:** Specialist in Network Attacks, Malware, and Defense Strategies.
+* **Deloitte Data Analytics:** Job Simulation certified in Data Cleaning and Business Insights.
+* **NASSCOM FutureSkills:** Advanced Big Data Analytics (Data Lake & Warehouse Architecture).
+
+---
+
+### 📊 System Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&title_color=ffffff&text_color=999999&icon_color=ffffff&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&title_color=ffffff&text_color=999999&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9aa5ce&icon_color=7aa2f7" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9aa5ce" width="45%" />
 </p>
 
 ---
 
-### 🏆 Credentials
-* **Cisco:** Cybersecurity Certified (Malware & Network Defense)
-* **Deloitte:** Data Analytics & Business Insights (Job Simulation)
-* **NASSCOM:** Big Data Analytics (Data Lake & Warehouse Architecture)
-
-<div align="center">
-  <br />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code." />
-</div>
+### 📬 Encryption & Contact
+```yaml
+Contact:
+  Email: naikvishwa106@gmail.com
+  Professional: LinkedIn/in/YOUR_PROFILE
+  Location: Karnataka, India
