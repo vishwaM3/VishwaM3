@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=VISHWA%20M&fontSize=80&fontColor=ffffff&desc=FULL%20STACK%20ENGINEER%20|%20CYBERSECURITY%20ANALYST&descSize=20&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=VISHWA%20M&fontSize=80&fontColor=ffffff&desc=FULL%20STACK%20ENGINEER%20%2&descSize=20&descAlignY=70" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/LOCATION-SHIVAMOGGA%2C%20IN-white?style=flat-square" />
@@ -60,5 +60,5 @@
 ```yaml
 Contact:
   Email: naikvishwa106@gmail.com
-  Professional: LinkedIn/in/YOUR_PROFILE
+  Professional: https://www.linkedin.com/in/vishwamnaik?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
   Location: Karnataka, India
