@@ -1,28 +1,65 @@
-Hi 👋, I'm Vishwa M Naik
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Vishwa%20M%20Naik&fontSize=60&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descSize=20&descAlignY=75" />
 
-A passionate Full Stack Developer and Programming Enthusiast from India.
-I enjoy building web applications and learning new technologies.
+  <p align="center">
+    <kbd>Python</kbd> • <kbd>Flask</kbd> 
+• <kbd>Data Analytics</kbd>
+  </p>
 
-"Profile Views" (https://komarev.com/ghpvc/?username=vishwamnaik&color=blue)
+  <p align="center">
+    <a href="mailto:naikvishwa106@gmail.com">
+      <img src="https://img.shields.io/badge/Connect-Direct-white?style=flat-square&logo=gmail&logoColor=black" />
+    </a>
+    <a href="YOUR_LINKEDIN_URL">
+      <img src="https://img.shields.io/badge/Network-LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
+</div>
 
-- 🌱 I’m currently learning Python, Full Stack Development, Data Science
+<br />
 
-- 💬 Ask me about HTML, CSS, JavaScript, Python, Flask, Git, MySQL
-
-- 🚀 Currently building projects like Civic Issue Reporting App (grama_app) using Python Flask + HTML/CSS
-
-- 📫 How to reach me: naikvishwa106@gmail.com
-
-- ⚡ Fun fact: I love coding, solving problems and creating useful applications
+### 🛡️ Professional Profile
+An results-oriented Software Engineer specializing in scalable backend architectures and secure systems. Certified by **Cisco** in Network Defense and **Deloitte** in Data Analytics, I bridge the gap between robust development and data-driven insights.
 
 ---
 
-🔗 Connect with me
+### 🚀 Technical Ecosystem
 
-<p align="left"><a href="https://linkedin.com/in/yourlinkedin" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" />
-</a></p>---
+| Domain | Expertises |
+| :--- | :--- |
+| **Backend & Logic** | `Python (Intermediate)` `Flask` `Django` `C/C++` `Java` |
+| **Data & Security** | `MySQL` `Data Visualization` `Network Defense` `Malware Analysis` |
+| **Frontend Architecture** | `JavaScript (DOM)` `CSS3/SCSS` `Responsive UI` |
+| **Core Foundations** | `Operating Systems` `DBMS` `Computer Networks` `OOPs` |
 
-🛠 Languages and Tools
+---
 
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></p>
+### 💻 Featured Engineering
+> **E-Commerce Ecosystem (Amazon Clone)**
+> *Full-stack UI implementation focusing on high-volume navigation and interactive DOM logic.*
+> `HTML5` `CSS3` `JavaScript`
+
+> **Women Safety Infrastructure (Prototype)**
+> *Emergency response interface featuring modular asset management and rapid-alert UI.*
+> `System Architecture` `Modular JS` `Responsive Design`
+
+---
+
+### 📊 Engineering Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&title_color=ffffff&text_color=999999&icon_color=ffffff&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&title_color=ffffff&text_color=999999&hide_border=true" width="40%" />
+</p>
+
+---
+
+### 🏆 Credentials
+* **Cisco:** Cybersecurity Certified (Malware & Network Defense)
+* **Deloitte:** Data Analytics & Business Insights (Job Simulation)
+* **NASSCOM:** Big Data Analytics (Data Lake & Warehouse Architecture)
+
+<div align="center">
+  <br />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code." />
+</div>
