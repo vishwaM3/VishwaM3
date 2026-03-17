@@ -50,15 +50,18 @@
 
 ### 📊 System Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9aa5ce&icon_color=7aa2f7" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9aa5ce" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VishwaM3&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9aa5ce&icon_color=7aa2f7" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishwaM3&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9aa5ce" width="45%" />
 </p>
 
 ---
 
-### 📬 Encryption & Contact
-```yaml
-Contact:
-  Email: naikvishwa106@gmail.com
-  Professional: https://www.linkedin.com/in/vishwamnaik?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-  Location: Karnataka, India
+ ###    📬 Encryption & Contact       
+
+<p align="center">
+  📧<b>Email:</b><a
+  href="mailto:naikvishwa106@gmail.com">naikvishwa106@gmail.com</a> <br>
+  📥<b>LinkedIn:</b><a href="https://www.linkedIn.com/in/vishwamnaik?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">View Profile</a>
+  <br>
+  🧭<b> Location:</b> Karnataka, India
+</p>
