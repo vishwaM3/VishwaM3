@@ -21,7 +21,7 @@
 | **Logic & Backend** | `Python (Intermediate)` `Flask` `Django` `C` `C++` `Java` |
 | **Data Engineering** | `MySQL` `Data Mining` `Preprocessing` `Visualization` |
 | **Web Infrastructure** | `JavaScript (DOM)` `HTML5` `CSS3` `Responsive Design` |
-| **Security & Ops** | `Network Defense` `Malware Analysis` `Linux` `Git` |
+| **Security & Ops** | `Malware Analysis` `Linux` `Git` |
 | **Core Foundations** | `OOPs` `OS` `DBMS` `Computer Networks` |
 
 ---
