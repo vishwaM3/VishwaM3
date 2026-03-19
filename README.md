@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=VISHWA%20M&fontSize=80&fontColor=ffffff&desc=FULL%20STACK%20ENGINEER%20%2&descSize=20&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=VISHWA%20M&fontSize=80&fontColor=ffffff&desc=FULL%20STACK%20Developer%20%2&descSize=20&descAlignY=70" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/LOCATION-SHIVAMOGGA%2C%20IN-white?style=flat-square" />
