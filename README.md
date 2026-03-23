@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=VISHWA%20M&fontSize=80&fontColor=ffffff&desc=FULL%20STACK%20DEVELOPER%20%2&descSize=30&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0ff416c&height=200&section=header&text=VISHWA%20M&fontSize=80&fontColor=FCE38A&desc=FULL%20STACK%20DEVELOPER%20%2&descSize=30&descAlignY=70" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/LOCATION-SHIVAMOGGA%2C%20IN-white?style=flat-square" />
@@ -50,8 +50,8 @@
 
 ### 📊 System Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishwaM3&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9aa5ce&icon_color=7aa2f7" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishwaM3&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9aa5ce" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VishwaM3&show_icons=true&theme=tokyonight&hide_border=true&title_color=9aa5ce&text_color=7aa2f7&icon_color=7aa2f7" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishwaM3&layout=compact&theme=tokyonight&hide_border=true&title_color=9aa5ce&text_color=7aa2f7" width="45%" />
 </p>
 
 ---
